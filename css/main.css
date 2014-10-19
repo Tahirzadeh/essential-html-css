@@ -46,6 +46,7 @@ header {
 	color: #FFFFFF;
 	background-color: #FA5A0F;
 	border-bottom: 5px #EA4A00;
+	border-bottom-style: solid;
 	padding: 1em;
 }
 
@@ -98,6 +99,8 @@ footer {
 	padding: 1em;
 	background-color: #FC892F;
 	border-top: 5px #EC791F;
+	border-top-width: 5px;
+	border-top-style: solid;
 	font-size: 80%;
 	text-align: right;
 }
